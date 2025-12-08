@@ -1,0 +1,71 @@
+{
+  "buttons": {
+    "primary": "Get a Free Consultation",
+    "secondary": "Request Quote",
+    "tertiary": "Learn More",
+    "add_to_cart": "Add to Cart — Secure Checkout",
+    "shop_now": "Shop Now",
+    "view_products": "View Products",
+    "contact_us": "Contact Us",
+    "subscribe": "Subscribe",
+    "read_more": "Read More",
+    "view_case_study": "View Case Study",
+    "book_consultation": "Book Consultation",
+    "schedule_demo": "Schedule Demo",
+    "request_demo": "Request Demo"
+  },
+  "notifications": {
+    "checkout_success": "Thank you! Your order [#ORDER_ID] is confirmed. Check your email for details.",
+    "empty_cart": "Your cart is empty — explore our products.",
+    "support_acknowledgement": "Thanks — our team will reply within 24 hours (or within SLA for paid plans).",
+    "quote_submitted": "Your quote request has been submitted. We'll get back to you within 48 hours.",
+    "consultation_booked": "Your consultation has been scheduled. Check your email for the meeting link.",
+    "newsletter_subscribed": "Thanks for subscribing! Check your email to confirm."
+  },
+  "form_labels": {
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "company": "Company",
+    "service_interest": "Service of Interest",
+    "message": "Message",
+    "project_title": "Project Title",
+    "budget": "Budget Range",
+    "timeline": "Timeline"
+  },
+  "form_placeholders": {
+    "name": "Your name",
+    "email": "you@company.com",
+    "phone": "+254 712 345 678",
+    "company": "Your Company",
+    "message": "Tell us about your project...",
+    "project_title": "Brief project description"
+  },
+  "validation_messages": {
+    "required_field": "This field is required",
+    "invalid_email": "Please enter a valid email address",
+    "invalid_phone": "Please enter a valid phone number",
+    "password_mismatch": "Passwords do not match",
+    "min_length": "Must be at least {length} characters",
+    "max_length": "Cannot exceed {length} characters"
+  },
+  "links": {
+    "home": "Home",
+    "services": "Services",
+    "shop": "Shop",
+    "blog": "Blog",
+    "about": "About",
+    "contact": "Contact",
+    "careers": "Careers",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "support": "Support",
+    "documentation": "Documentation"
+  },
+  "cta_copy": {
+    "demo_request": "See it in action — Request a demo",
+    "consultation": "Ready to transform your tech? Schedule a free consultation",
+    "newsletter": "Get monthly product updates and technical guides",
+    "contact_sales": "Have questions? Our sales team is ready to help"
+  }
+}

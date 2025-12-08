@@ -1,0 +1,47 @@
+Subject: Order Confirmed — EliteSoft Technologies (#{{order_id}})
+
+Hi {{customer_name}},
+
+Thanks for your purchase! Your order **{{order_id}}** is confirmed.
+
+---
+
+## Order Details
+
+**Items:**
+{{line_items}}
+
+**Order Total:** {{order_total}}
+
+**Order Date:** {{order_date}}
+
+**Estimated Delivery:** {{estimated_delivery}}
+
+---
+
+## What's Next?
+
+We'll send another email when your order ships or your digital product license is delivered.
+
+For digital products, check your account dashboard for download links and activation codes.
+
+---
+
+## Need Help?
+
+If you have any questions about your order, reply to this email or contact:
+
+**Support Email:** [support@elitesoft.tech](mailto:support@elitesoft.tech)
+**Phone:** +254 712 345 678
+**Hours:** Mon–Fri, 9:00 AM – 6:00 PM EAT
+
+---
+
+Thanks for choosing EliteSoft Technologies!
+
+Best regards,
+**The EliteSoft Team**
+
+---
+
+*This is an automated message. Please do not reply with sensitive information.*

@@ -1,0 +1,67 @@
+Subject: Your {{product_name}} License Key & Setup Instructions
+
+Hi {{customer_name}},
+
+Welcome to EliteSoft! Your digital product is ready to download and activate.
+
+---
+
+## Your License Information
+
+**Product:** {{product_name}}
+**License Key:** `{{license_key}}`
+**Activation Keys Included:** {{num_keys}}
+**Validity:** {{validity_period}}
+
+---
+
+## Getting Started
+
+1. **Download the Software**
+   [Download Now →]({{download_link}})
+
+2. **Installation**
+   Follow the setup wizard in the installer. When prompted, enter your license key above.
+
+3. **Activation**
+   - Use one of your {{num_keys}} activation keys
+   - Activation requires internet connection (one-time)
+   - Each key can be used on one device at a time
+
+4. **Support**
+   [View Documentation →]({{documentation_link}})
+
+---
+
+## System Requirements
+
+{{system_requirements}}
+
+---
+
+## Common Questions
+
+**Q: How do I transfer my license to another device?**
+A: Deactivate the license on your current device, then activate on the new device using the same key.
+
+**Q: Do I need internet to use the software?**
+A: Internet is required for activation. Day-to-day usage may work offline depending on the product.
+
+**Q: How do I get support?**
+A: Email [support@elitesoft.tech](mailto:support@elitesoft.tech) with your license key and describe your issue.
+
+---
+
+## Keep This Email Safe
+
+This email contains your license information. Do not share it with others. If you lose your license key, contact us for a copy.
+
+---
+
+Happy coding!
+
+**The EliteSoft Team**
+
+---
+
+*This is an automated message. Please do not reply with sensitive information.*

@@ -1,0 +1,54 @@
+{
+  "general": [
+    {
+      "question": "What industries do you serve?",
+      "answer": "Fintech, healthcare, logistics, retail, agritech, and public sector clients."
+    },
+    {
+      "question": "Do you sign NDAs?",
+      "answer": "Yes — we sign NDAs before starting confidential discussions."
+    }
+  ],
+  "services": [
+    {
+      "question": "How long does a typical software project take?",
+      "answer": "Small MVPs: 6–12 weeks. Medium projects: 3–6 months. Large enterprise projects: timeline depends on scope."
+    },
+    {
+      "question": "Do you provide post-launch support?",
+      "answer": "Yes — we offer managed support packages with SLAs."
+    },
+    {
+      "question": "What is your development process?",
+      "answer": "We follow a structured Agile approach: Discovery → Architecture → Sprints → QA → Launch → Support. You have visibility throughout the process with regular updates."
+    },
+    {
+      "question": "Can you help with technology selection?",
+      "answer": "Absolutely. We provide technology recommendations based on your project requirements, team expertise, and long-term scalability goals."
+    }
+  ],
+  "products": [
+    {
+      "question": "What is your return policy for hardware?",
+      "answer": "30-day return policy for unopened hardware; warranty applies as described per product."
+    },
+    {
+      "question": "Do you offer bulk discounts?",
+      "answer": "Yes, we offer volume discounts for orders of 5+ units. Contact our sales team for custom pricing."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept credit cards (Visa, Mastercard, Amex), bank transfers, and digital wallets. Invoice payment is available for enterprise customers."
+    }
+  ],
+  "support": [
+    {
+      "question": "What is your support response time?",
+      "answer": "Response times vary by plan: Free (48 hours), Bronze (24 hours), Silver (4 hours), Gold (1 hour). Critical issues are prioritized."
+    },
+    {
+      "question": "Is support available outside business hours?",
+      "answer": "Standard support is Mon–Fri, 9 AM – 6 PM EAT. 24/7 support is available with premium plans."
+    }
+  ]
+}

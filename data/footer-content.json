@@ -1,0 +1,65 @@
+{
+  "newsletter": "Get monthly product updates and technical guides",
+  "newsletter_placeholder": "Enter your email",
+  "newsletter_button": "Subscribe",
+  "footer_links": [
+    {
+      "section": "Company",
+      "links": [
+        {"text": "Home", "url": "/"},
+        {"text": "About", "url": "/about"},
+        {"text": "Careers", "url": "/careers"},
+        {"text": "Contact", "url": "/contact"}
+      ]
+    },
+    {
+      "section": "Services",
+      "links": [
+        {"text": "Custom Software", "url": "/services#software"},
+        {"text": "AI & ML", "url": "/services#ai"},
+        {"text": "Cloud & DevOps", "url": "/services#cloud"},
+        {"text": "Cybersecurity", "url": "/services#security"}
+      ]
+    },
+    {
+      "section": "Resources",
+      "links": [
+        {"text": "Blog", "url": "/blog"},
+        {"text": "Documentation", "url": "/docs"},
+        {"text": "FAQ", "url": "/faq"},
+        {"text": "Support", "url": "/support"}
+      ]
+    },
+    {
+      "section": "Legal",
+      "links": [
+        {"text": "Privacy Policy", "url": "/privacy"},
+        {"text": "Terms & Conditions", "url": "/terms"}
+      ]
+    }
+  ],
+  "social_links": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/company/elitesoft-technologies",
+      "icon": "linkedin"
+    },
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/elitesoft_tech",
+      "icon": "twitter"
+    },
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/elitesoft-tech",
+      "icon": "github"
+    }
+  ],
+  "copyright": "© {{year}} EliteSoft Technologies. All rights reserved.",
+  "company_info": {
+    "name": "EliteSoft Technologies",
+    "email": "info@elitesoft.tech",
+    "phone": "+254 712 345 678",
+    "address": "Nairobi Tech Hub, Nairobi, Kenya"
+  }
+}

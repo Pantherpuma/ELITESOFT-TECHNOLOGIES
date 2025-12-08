@@ -1,0 +1,39 @@
+{
+  "home": {
+    "meta_title": "EliteSoft Technologies | Software Engineering, AI & Cloud",
+    "meta_description": "End-to-end software & tech solutions including custom development, AI/ML, cloud engineering, and cybersecurity. Get a free consultation today.",
+    "og_title": "EliteSoft Technologies — Build Smarter, Ship Faster",
+    "og_description": "End-to-end software engineering, AI, cloud, and security solutions for startups and enterprises.",
+    "og_image": "/assets/og-home.jpg"
+  },
+  "services": {
+    "meta_title": "Software Development, AI & Cloud Services — EliteSoft",
+    "meta_description": "Custom software development, AI & ML systems, cloud engineering, cybersecurity, and IT consulting from EliteSoft Technologies.",
+    "og_title": "EliteSoft Services — Engineering Excellence",
+    "og_description": "Tailored software and technology services across the entire lifecycle."
+  },
+  "shop": {
+    "meta_title": "EliteSoft Shop — Secure hardware & developer tools",
+    "meta_description": "Product catalog including SecureEdge firewall, DevToolkit Pro license, cloud services, and IoT sensors.",
+    "og_title": "EliteSoft Products — Tech Solutions",
+    "og_description": "Shop hardware, software licenses, and services designed for modern engineering teams."
+  },
+  "blog": {
+    "meta_title": "EliteSoft Insights — Technical guides & case studies",
+    "meta_description": "Engineering best practices, cloud & AI articles, case studies, and industry insights from EliteSoft Technologies.",
+    "og_title": "EliteSoft Blog — Tech Insights",
+    "og_description": "Technical guides, case studies, and insights from our engineering team."
+  },
+  "about": {
+    "meta_title": "About EliteSoft Technologies — Our Mission & Team",
+    "meta_description": "Learn about EliteSoft Technologies, our mission, values, and experienced team delivering software and tech solutions.",
+    "og_title": "About EliteSoft — Our Team",
+    "og_description": "Meet the team behind EliteSoft Technologies."
+  },
+  "contact": {
+    "meta_title": "Contact EliteSoft Technologies — Reach out today",
+    "meta_description": "Contact EliteSoft for consultations, support, sales inquiries, or partnership opportunities.",
+    "og_title": "Contact EliteSoft",
+    "og_description": "Get in touch with our team for sales, support, or partnership inquiries."
+  }
+}

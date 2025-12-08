@@ -1,0 +1,47 @@
+Subject: Quote Request Received — EliteSoft Technologies
+
+Hi {{name}},
+
+Thanks for requesting a quote for **"{{project_title}}"**. We've received your request and an account manager will contact you within **48 hours** to schedule a scoping call.
+
+---
+
+## Your Request Summary
+
+**Project:** {{project_title}}
+**Service:** {{service_type}}
+**Company:** {{company}}
+**Submission Date:** {{date}}
+
+---
+
+## Next Steps
+
+1. Our sales team will review your requirements
+2. An account manager will reach out to discuss your project
+3. We'll schedule a 30-minute scoping call
+4. You'll receive a detailed quote within 5 business days
+
+---
+
+## Need It Sooner?
+
+If this is urgent, you can book a time slot directly on our calendar:
+
+[Book a Consultation →](https://calendar.link)
+
+Or call us at **+254 712 345 678** (Mon–Fri, 9 AM – 6 PM EAT)
+
+---
+
+Best regards,
+
+**{{rep_name}}**
+Sales Team
+[sales@elitesoft.tech](mailto:sales@elitesoft.tech)
+
+EliteSoft Technologies
+
+---
+
+*This is an automated message. Please do not reply with sensitive information.*

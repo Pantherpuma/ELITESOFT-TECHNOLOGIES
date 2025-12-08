@@ -1,0 +1,92 @@
+{
+  "dashboard": {
+    "welcome": "Welcome back, {{admin_name}} — Overview of sales, active projects, and open support tickets.",
+    "sections": {
+      "sales": "Sales Dashboard",
+      "projects": "Active Projects",
+      "support": "Support Tickets",
+      "analytics": "Analytics & Reports"
+    }
+  },
+  "products": {
+    "section_title": "Products",
+    "actions": [
+      "Add product",
+      "Edit product",
+      "View inventory",
+      "Set pricing",
+      "Manage categories"
+    ]
+  },
+  "orders": {
+    "section_title": "Orders",
+    "statuses": [
+      "New orders",
+      "Processing",
+      "Shipped",
+      "Delivered",
+      "Refunds",
+      "Cancelled"
+    ],
+    "actions": [
+      "View order details",
+      "Update status",
+      "Generate invoice",
+      "Send reminder",
+      "Process refund"
+    ]
+  },
+  "customers": {
+    "section_title": "Customers",
+    "actions": [
+      "Search customers",
+      "View profile",
+      "Export CSV",
+      "Send message",
+      "Manage subscriptions"
+    ]
+  },
+  "blog": {
+    "section_title": "Blog",
+    "actions": [
+      "New post",
+      "Edit post",
+      "Drafts",
+      "Published",
+      "Scheduled",
+      "Archive"
+    ]
+  },
+  "support": {
+    "section_title": "Support",
+    "actions": [
+      "View tickets",
+      "Assign ticket",
+      "Add response",
+      "Close ticket",
+      "View SLA status"
+    ]
+  },
+  "analytics": {
+    "section_title": "Analytics & Reports",
+    "reports": [
+      "Sales summary",
+      "Product performance",
+      "Customer acquisition",
+      "Traffic sources",
+      "Conversion funnel"
+    ]
+  },
+  "settings": {
+    "section_title": "Settings",
+    "subsections": [
+      "Payment gateways (Stripe, PayPal, M-Pesa)",
+      "Shipping rates and methods",
+      "Tax configuration",
+      "Email templates",
+      "API integrations",
+      "User permissions",
+      "Brand settings"
+    ]
+  }
+}

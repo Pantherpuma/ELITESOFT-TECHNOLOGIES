@@ -1,0 +1,26 @@
+{
+  "images": {
+    "hero": "EliteSoft team collaborating on a whiteboard",
+    "product_devtoolkit": "DevToolkit Pro interface screenshot showing code editor and development tools",
+    "product_firewall": "SecureEdge Firewall SE-100 front panel with ports and status lights",
+    "product_cloud": "Cloud architecture diagram showing multi-cloud deployment",
+    "product_iot": "IoT sensor pack on a desk with environmental sensors visible",
+    "product_cybersecurity": "Cybersecurity monitoring dashboard with real-time alerts",
+    "blog_code": "Developer writing code on laptop",
+    "blog_team": "Engineering team having a meeting",
+    "about_team": "EliteSoft Technologies team photo",
+    "service_development": "Developers working on custom software project"
+  },
+  "accessibility_notes": [
+    "Use semantic HTML (nav, article, section, header, footer)",
+    "Include ARIA attributes for interactive elements (buttons, modals, tabs)",
+    "Maintain high color contrast ratios (WCAG AA minimum 4.5:1)",
+    "Ensure keyboard navigation support on all interactive elements",
+    "Provide alt text for all images (descriptive, concise)",
+    "Use proper heading hierarchy (h1, h2, h3...)",
+    "Include form labels and error messages",
+    "Test with screen readers (NVDA, JAWS, VoiceOver)",
+    "Provide transcripts for video content",
+    "Ensure focus indicators are visible"
+  ]
+}

@@ -1,0 +1,60 @@
+Subject: Consultation Confirmed — EliteSoft Technologies
+
+Hi {{name}},
+
+Your consultation is confirmed! Here are the details:
+
+---
+
+## Meeting Information
+
+**Date:** {{date}}
+**Time:** {{time}} (EAT)
+**Duration:** 30–60 minutes
+**Format:** {{format}} *(video call / phone call / in-person)*
+
+**Meeting Link:** {{meeting_link}}
+
+---
+
+## Agenda
+
+{{agenda}}
+
+---
+
+## Before We Meet
+
+To make the most of our time together, please:
+
+- [ ] Share any relevant documents or requirements
+- [ ] Think about your main goals and challenges
+- [ ] Have your team members join if helpful
+- [ ] Test your video/audio setup if it's a video call
+
+---
+
+## Reschedule or Cancel
+
+If you need to reschedule, please reply to this email or use our calendar:
+
+[Reschedule Appointment →](https://calendar.link)
+
+---
+
+## Questions?
+
+Reach out to our team:
+- **Email:** [sales@elitesoft.tech](mailto:sales@elitesoft.tech)
+- **Phone:** +254 712 345 678
+- **Hours:** Mon–Fri, 9:00 AM – 6:00 PM EAT
+
+---
+
+See you then!
+
+**The EliteSoft Team**
+
+---
+
+*This is an automated message. Please do not reply with sensitive information.*

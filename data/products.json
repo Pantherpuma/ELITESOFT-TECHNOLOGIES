@@ -1,0 +1,114 @@
+[
+  {
+    "sku": "EST-DTK-PRO",
+    "name": "DevToolkit Pro License",
+    "price": 149,
+    "billing_period": "yearly",
+    "short_description": "Productivity bundle including IDE plugins, CLI tools, and deployment templates.",
+    "long_description": "Boost developer productivity with preconfigured plugins, CLI utilities, and boilerplate templates for React, Node, and Python. Includes priority support and one activation key per developer.",
+    "key_features": [
+      "One-click templates",
+      "CI/CD pipelines",
+      "Code linting & formatting"
+    ],
+    "shipping": "Digital license (instant)",
+    "image_alt": "DevToolkit Pro interface screenshot",
+    "category": "software",
+    "type": "license"
+  },
+  {
+    "sku": "EST-SE100",
+    "name": "SecureEdge Firewall Appliance (Model SE-100)",
+    "price": 899,
+    "billing_period": "one-time",
+    "short_description": "Small-office hardware firewall with remote management.",
+    "long_description": "A compact, high-performance firewall featuring IDS/IPS, VPN, and centralized management. Ideal for SMBs and branch offices. Includes 1 year firmware updates and 90-day hardware warranty.",
+    "key_features": [
+      "1Gbps throughput",
+      "4 Ethernet ports",
+      "VPN",
+      "Web UI"
+    ],
+    "shipping": "Physical item",
+    "warranty": "90 days hardware warranty + 1 year firmware updates",
+    "image_alt": "SecureEdge Firewall SE-100 front view",
+    "category": "hardware",
+    "type": "appliance",
+    "faq": [
+      {
+        "question": "Does it support VLANs?",
+        "answer": "Yes — up to 16 virtual LANs and VLAN tagging."
+      }
+    ]
+  },
+  {
+    "sku": "EST-CLOUD-ST",
+    "name": "EliteCloud Starter (12-month credits + setup)",
+    "price": 499,
+    "billing_period": "one-time",
+    "cloud_credits": 300,
+    "short_description": "Cloud onboarding package with one-month managed support.",
+    "long_description": "Managed cloud setup for AWS/Azure/GCP, secure architecture design, CI/CD integration, and 1-month onboarding support. Best for startups and small teams.",
+    "key_features": [
+      "Architecture plan",
+      "Cost estimate",
+      "CI/CD pipeline",
+      "One managed month"
+    ],
+    "shipping": "Service (digital)",
+    "image_alt": "Cloud architecture diagram",
+    "category": "services",
+    "type": "service"
+  },
+  {
+    "sku": "EST-IOT-5",
+    "name": "IoT Sensor Pack (5-pack)",
+    "price": 249,
+    "billing_period": "one-time",
+    "short_description": "Environmental IoT sensors (temp, humidity, light) with SDK.",
+    "long_description": "Plug-and-play sensors with secure MQTT, sample firmware, and data dashboard templates. Perfect for pilot deployments.",
+    "key_features": [
+      "Temperature sensor",
+      "Humidity sensor",
+      "Light sensor",
+      "Secure MQTT",
+      "Sample firmware",
+      "Dashboard templates"
+    ],
+    "image_alt": "IoT sensor pack on a desk",
+    "category": "hardware",
+    "type": "sensors",
+    "quantity": 5
+  },
+  {
+    "sku": "EST-CYBER-CARE",
+    "name": "CyberCare Annual Support",
+    "price": 2499,
+    "billing_period": "yearly",
+    "short_description": "Annual cybersecurity monitoring and incident response retainer.",
+    "long_description": "24/7 monitoring, monthly vulnerability scans, incident response playbook, and quarterly security reviews. Includes two emergency incident responses per year.",
+    "key_features": [
+      "24/7 monitoring",
+      "Monthly vulnerability scans",
+      "Incident response playbook",
+      "Quarterly security reviews",
+      "Two emergency incident responses/year"
+    ],
+    "image_alt": "Cybersecurity monitoring dashboard",
+    "category": "services",
+    "type": "support"
+  },
+  {
+    "sku": "EST-CUSTOM",
+    "name": "Custom Software Project",
+    "price": null,
+    "price_label": "Quote",
+    "billing_period": "custom",
+    "short_description": "Tailored software development and integration services.",
+    "long_description": "Our team will work with you to deliver custom software development, integration, and consultation services tailored to your specific needs.",
+    "image_alt": "Team working on custom software development",
+    "category": "services",
+    "type": "custom",
+    "cta": "Request a Quote"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "case-study-1",
+    "title": "Case Study: Scaling an e-commerce platform to 10k concurrent users",
+    "client": "E-commerce Retailer",
+    "problem": "Poor performance and high cart abandonment rates during peak traffic.",
+    "solution": "Complete re-architecture, CDN integration, checkout optimization, and database optimization.",
+    "results": [
+      "40% faster checkout process",
+      "18% increase in conversion rate",
+      "70% reduction in page load time",
+      "Support for 10k+ concurrent users"
+    ],
+    "technologies": ["React", "Node.js", "PostgreSQL", "AWS CloudFront", "Kubernetes"]
+  }
+]

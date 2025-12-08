@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Samuel (Sam) Otieno",
+    "title": "Founder & CEO",
+    "bio": "12+ years in software delivery and product strategy. Former engineering lead at two scale-ups. Sam leads vision and strategy across all client engagements.",
+    "expertise": ["Software Architecture", "Product Strategy", "Team Leadership"],
+    "image_alt": "Samuel Otieno, CEO"
+  },
+  {
+    "name": "Dr. Amina Hassan",
+    "title": "Head of AI & Data Science",
+    "bio": "PhD in Machine Learning, experience building NLP systems and production ML platforms. Amina directs all AI and data science initiatives.",
+    "expertise": ["Machine Learning", "NLP", "MLOps", "Data Engineering"],
+    "image_alt": "Dr. Amina Hassan, Head of AI & Data Science"
+  },
+  {
+    "name": "Jacob Mwangi",
+    "title": "Head of Cloud & DevOps",
+    "bio": "Certified cloud architect with deep experience in Kubernetes and infrastructure automation. Jacob oversees cloud strategy and DevOps excellence.",
+    "expertise": ["Cloud Architecture", "Kubernetes", "Infrastructure Automation", "DevOps"],
+    "image_alt": "Jacob Mwangi, Head of Cloud & DevOps"
+  }
+]
